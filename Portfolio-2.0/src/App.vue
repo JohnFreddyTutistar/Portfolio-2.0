@@ -5,17 +5,20 @@
         <div class="container">
           <div class="header-section">
               <div class="section-one">
-                <img src="../src/assets/wall.png" alt="" width="90" class="img-laptop">
-              <div class="developer">Web Developer</div>
-          </div>
+                <a href="/">
+                  <img src="../src/assets/bird.png" alt="" width="90" class="img-laptop">
+                  <div class="developer">Web Developer</div>
+                </a>
+              </div>
           
-          <div class="section-two">
-              <button class="btn btn-light"><a href="#about">About me</a></button>
-              <button class="btn-style"><router-link to="/form" class="btn btn-outline-dark">Get in touch</router-link></button>
+              <div class="section-two">
+                <button class="btn btn-light"><a href="#about">About me</a></button>
+                <button class="btn-style"><router-link to="/form" class="btn btn-outline-info">Get in touch</router-link></button>
+              </div>
           </div>
-      </div>
         </div>
-    </div>
+        
+      </div>
     </div>
     <router-view/>
   </div> 
