@@ -2,16 +2,15 @@
   <div class="father-container">
       <div class="container">
           <div class="header-section">
-          <div class="section-one">
-              <img src="../assets/wall.png" alt="" width="90" class="img-laptop">
+              <!-- <div class="section-one">
+                <img src="../assets/wall.png" alt="" width="90" class="img-laptop">
               <div class="developer">Web Developer</div>
           </div>
           
           <div class="section-two">
               <button class="btn btn-light"><a href="#about">About me</a></button>
-              <!-- <button class="btn-style"><router-link to="/" class="btn btn-light">About me</router-link></button> -->
               <button class="btn-style"><router-link to="/form" class="btn btn-outline-dark">Get in touch</router-link></button>
-          </div>
+          </div> -->
       </div>
       <div class="father-logo">
            <div class="logo-section">
@@ -106,7 +105,7 @@
                   </div>
               </div>
           </div>
-
+    |  
 
       </div>
       <footer>
