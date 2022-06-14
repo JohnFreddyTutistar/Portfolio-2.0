@@ -20,8 +20,8 @@
             </div>
           
             <div class="logo-container">
-                <img src="../assets/sticker.jpg" alt="" width="300" class="img-logo">
-                <img src="../assets/sticker2.jpg" alt="" width="300" class="img-logo">
+                <img src="../assets/principal2.jpg" alt="" width="300" class="img-logo">
+                <img src="../assets/principal.jpg" alt="" width="300" class="img-logo">
                 
             </div>
            </div>
@@ -36,7 +36,7 @@
               <p class="parrafo">I was born in the city of Pasto, Colombia on February 3, 1994, I am currently 28 years old, since I was very young I have been very curious about technology and its operation, that is why I studied Systems Engineering, I like front-end development, but Lately I'm very interested in server-side (back-end) programming. Number one fan of learning and the interaction of new technologies. "Never Stop Learning".</p>
               
           </div>
-          <img src="../assets/doorway.png" alt="" width="500">
+          <img src="../assets/door2.png" alt="" width="500">
       </div>
       <div class="container">
           <div class="container-box">
@@ -110,7 +110,7 @@
       </div>
       <footer>
       <div class="img-lap">
-        <img src="../assets/laptop.png" alt="" width="200">
+        <img src="../assets/laptop3.png" alt="" width="200">
       </div>
       <div class="text">
         Software Developer
@@ -206,6 +206,7 @@ export default {
     .img-big{
         opacity: 0.8;
         width: 100%;
+        
     }
     .about-me-container{
         position: relative;

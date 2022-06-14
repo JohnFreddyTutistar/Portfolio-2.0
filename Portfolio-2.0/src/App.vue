@@ -6,7 +6,7 @@
           <div class="header-section">
               <div class="section-one">
                 <a href="/">
-                  <img src="../src/assets/bird.png" alt="" width="90" class="img-laptop">
+                  <img src="../src/assets/coffee2.png" alt="" width="90" class="img-laptop">
                   <div class="developer">Web Developer</div>
                 </a>
               </div>

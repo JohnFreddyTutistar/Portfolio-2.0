@@ -46,7 +46,7 @@
                         </div>
                         <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
 
-                            <img src="../assets/email.png"
+                            <img src="../assets/white.png"
                             class="img-fluid" alt="Sample image">
 
                         </div>
@@ -59,12 +59,12 @@
         </section>
         <footer>
       <div class="img-lap">
-        <img src="../assets/laptop.png" alt="" width="200">
+        <img src="../assets/laptop3.png" alt="" width="200">
       </div>
       <div class="text">
         Software Developer
       </div>
-      
+      <font-awesome-icon icon="fa-brands fa-facebook" />
       <span>Developed By <a href="#">John Tutistar</a> | <span class="far fa-copyright"></span> 2022 All rights recerved</span>
       <div>
         Made with <img src="../assets/vue.png" alt="" width="15">
@@ -83,6 +83,7 @@ export default {
     .card-body{
         -webkit-box-shadow: 0 10px 20px 0 rgba(0,0,0,0.3);
         box-shadow: 0 10px 20px 0 rgba(0,0,0,0.3);
+      
     }
 
     /*footer */
