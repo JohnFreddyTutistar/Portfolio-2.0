@@ -6,14 +6,14 @@
           <div class="header-section">
               <div class="section-one">
                 <a href="/">
-                  <img src="../src/assets/coffee2.png" alt="" width="90" class="img-laptop">
-                  <div class="developer">Web Developer</div>
+                  <img src="../src/assets/t.png" alt="" width="120" class="img-laptop">
+                  <!-- <div class="developer">Web Developer</div> -->
                 </a>
               </div>
           
               <div class="section-two">
                 <button class="btn btn-light"><a href="#about">About me</a></button>
-                <button class="btn-style"><router-link to="/form" class="btn btn-outline-info">Get in touch</router-link></button>
+                <button class="btn-style"><router-link to="/form" class="btn btn-outline-primary">Get in touch</router-link></button>
               </div>
           </div>
         </div>
