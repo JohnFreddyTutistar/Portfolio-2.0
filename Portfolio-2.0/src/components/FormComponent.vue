@@ -33,7 +33,7 @@
                                     <i class="fas fa-comment-dots fa-lg me-3 fa-fw"></i>
                                     <div class="form-outline flex-fill mb-0">
                                         <textarea name="" cols="30" rows="10" id="form3Example4c" class="form-control" required></textarea>
-                                        <label class="form-label" for="form3Example4c">Message</label>
+                                        <label class="form-label" for="form3Example4c">Message.</label>
                                     </div>
                                 </div>
 
