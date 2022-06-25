@@ -12,18 +12,18 @@
               <button class="btn-style"><router-link to="/form" class="btn btn-outline-dark">Get in touch</router-link></button>
           </div> -->
       </div>
-      <div class="father-logo">
+      <div class="container father-logo">
            <div class="logo-section">
-            <div class="info-container">
-                <h1 class="myname">&lt;John F. Tutistar/&gt;</h1>
-                <h5 class="myinfo">Welcome to my portfolio, here you will find some of my projects and relevant information in case you want to work with me</h5>
-            </div>
-          
-            <div class="logo-container">
-                <img src="../assets/principal2.jpg" alt="" width="300" class="img-logo">
-                <img src="../assets/principal.jpg" alt="" width="300" class="img-logo">
-                
-            </div>
+                <div class="info-container">
+                    <h1 class="myname">&lt;John F. Tutistar/&gt;</h1>
+                    <h5 class="myinfo">Welcome to my portfolio, here you will find some of my projects and relevant information in case you want to work with me</h5>
+                </div>
+            
+                <div class="logo-container">
+                    <img src="../assets/principal2.jpg" alt="" width="300" class="img-logo">
+                    <img src="../assets/principal.jpg" alt="" width="300" class="img-logo">
+                    
+                </div>
            </div>
       </div>
       </div>
@@ -174,7 +174,7 @@ export default {
     .logo-section{
         padding-top: 75px;
         height: 600px;
-        align-items: center;
+        /* align-items: center; */
     }
     .info-container{
         display: block;
@@ -197,8 +197,13 @@ export default {
     .logo-container img{
         position: absolute; 
         transition: opacity .2s ease-in-out;
-        margin: auto;
-        position: absolute;left: 42%;
+        /* margin: auto; */
+        /* left: 42%;  */
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        
+        
     }
     .logo-container img.img-logo:hover{
         opacity: 0;
