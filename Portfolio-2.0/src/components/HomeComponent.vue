@@ -95,7 +95,8 @@
               <div class="section-about me">
                   Check some of the projects I've done.
                   <div class="btn-link">
-                      <a target="_blank" href="https://github.com/JohnFreddyTutistar" class="btn btn-outline-primary">Check more</a>
+                    <router-link to="/projects" class="btn btn-outline-primary">Check more</router-link>
+                      <!-- <a target="_blank" href="https://github.com/JohnFreddyTutistar" class="btn btn-outline-primary">Check more</a> -->
                   </div>
               </div>
               <div class="section-about">
@@ -136,35 +137,6 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Arimo:ital@1&family=Concert+One&family=Kavoon&family=Koulen&family=Raleway:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Montserrat:wght@100&family=Rajdhani:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Kanit:wght@600&family=Montserrat:wght@100&family=Rajdhani:wght@300&display=swap');
-    /*Header section*/
-    a{
-        text-decoration: none;
-        color: #222;
-    }
-    .header-section{
-        display: flex;
-        margin-top: 25px;
-    }
-    .developer{
-        font-family: 'Kavoon', cursive;
-    }
-    .section-one{
-        width: 70%;
-    }
-    .img-laptop{
-        margin-left: 15px;
-    }
-
-    .section-two{
-        margin: auto;
-    }
-    .btn{
-        width: 120px;
-    }
-    .btn-style{
-        border: none;
-        background: none;
-    }
 
     /*Logo section*/
     .father-logo{
