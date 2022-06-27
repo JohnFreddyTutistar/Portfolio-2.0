@@ -131,11 +131,41 @@
       </div>
       |
     </div>
+
+    <!-- Footer section -->
+
     <footer>
       <div class="img-lap">
         <img src="../assets/laptop3.png" alt="" width="200" />
       </div>
       <div class="text">Software Developer</div>
+      <div class="wrapper container">
+        <ul>
+          <li class="instagram">
+            <a href="https://www.instagram.com/john_capm/" target="_blank"
+              ><i class="fa fa-instagram fa-2x" arial-hidden="true"></i
+            ></a>
+          </li>
+          <li class="github">
+            <a href="https://github.com/JohnFreddyTutistar/" target="_blank"
+              ><i class="fa fa-github fa-2x" arial-hidden="true"></i
+            ></a>
+          </li>
+          <li class="linkedin">
+            <a
+              href="https://www.linkedin.com/in/john-freddy-tutistar-99a85b1b3/"
+              target="_blank"
+              ><i class="fa fa-linkedin fa-2x" arial-hidden="true"></i
+            ></a>
+          </li>
+          <li class="whatsapp">
+            <a href="https://wa.me/573105124961" target="_blank"
+              ><i class="fa fa-whatsapp fa-2x" arial-hidden="true"></i
+            ></a>
+          </li>
+          
+        </ul>
+      </div>
 
       <span
         >Developed By <a href="#">John Tutistar</a> |
@@ -294,6 +324,91 @@ b {
 }
 
 /*footer section*/
+/*Social network*/
+.wrapper {
+  display: flex;
+  margin-bottom: 35px;
+}
+.wrapper ul {
+  list-style: none;
+  margin: auto;
+}
+.wrapper ul li {
+  width: 55px;
+  height: 55px;
+  line-height: 60px;
+  margin: 0 30px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 50%;
+  border: 2px solid #d8e2dc;
+  float: left;
+  transition: all 0.5s ease;
+}
+.wrapper ul li .fa {
+  color: #d8e2dc;
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li:hover.instagram {
+  border: 3px solid #bc2a8d;
+  box-shadow: 0 0 15px #bc2a8d;
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li:hover .fa-instagram {
+  color: #bc2a8d;
+  text-shadow: #bc2a8d;
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li:hover.github {
+  border: 3px solid #fff;
+  box-shadow: 0 0 15px #fff;
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li:hover .fa-github {
+  color: #fff;
+  text-shadow: #fff;
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li:hover.linkedin {
+  border: 3px solid #00aced;
+  box-shadow: 0 0 15px #00aced;
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li:hover .fa-linkedin {
+  color: #00aced;
+  text-shadow: #00aced;
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li:hover.whatsapp {
+  border: 3px solid #4dc247;
+  box-shadow: 0 0 15px #4dc247;
+  transition: all 0.5s ease;
+}
+
+.wrapper ul li:hover .fa-whatsapp {
+  color: #4dc247;
+  text-shadow: #4dc247;
+  transition: all 0.5s ease;
+}
+
+@media screen and(max-width: 640px) {
+  .wrapper {
+    width: 350px;
+  }
+  .wrapper ul li {
+    margin-top: 10px;
+  }
+  .wrapper ul li.linkedin {
+    margin-left: 60px;
+  }
+}
 
 footer {
   background: radial-gradient(closest-side, #374b70, #293a5a, #161f30);
