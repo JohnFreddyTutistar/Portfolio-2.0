@@ -92,18 +92,7 @@
         </div>
       </div>
     </section>
-    <footer>
-      <div class="img-lap">
-        <img src="../assets/laptop3.png" alt="" width="200" />
-      </div>
-      <div class="text">Software Developer</div>
-      <font-awesome-icon icon="fa-brands fa-facebook" />
-      <span
-        >Developed By <a href="#">John Tutistar</a> |
-        <span class="far fa-copyright"></span> 2022 All rights recerved</span
-      >
-      <div>Made with <img src="../assets/vue.png" alt="" width="15" /></div>
-    </footer>
+    
   </div>
 </template>
 
@@ -119,24 +108,5 @@ export default {
   box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3);
 }
 
-/*footer */
-footer {
-  background: radial-gradient(closest-side, #374b70, #293a5a, #161f30);
-  padding: 20px 23px;
-  color: white;
-  text-align: center;
-  font-size: 20px;
-}
-footer span a {
-  color: #5dade2;
-}
-.text {
-  margin-bottom: 40px;
-}
-.img-lap {
-  margin-top: 40px;
-}
-html {
-  scroll-behavior: smooth;
-}
+
 </style>

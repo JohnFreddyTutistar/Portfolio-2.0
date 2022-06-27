@@ -118,13 +118,13 @@
           </div>
         </div>
         <div class="section-about">
-          Check my profile of Linkedin
+          Or download a summary of my work
           <div class="btn-link">
             <a
               target="_blank"
-              href="https://www.linkedin.com/in/john-freddy-tutistar-99a85b1b3/"
+              href="https://drive.google.com/drive/folders/1JplM5ZK_kDu-2y5D4G3ZiIeMy3rur9Lu?usp=sharing"
               class="btn btn-outline-primary"
-              >Check more</a
+              >Get my resume</a
             >
           </div>
         </div>
