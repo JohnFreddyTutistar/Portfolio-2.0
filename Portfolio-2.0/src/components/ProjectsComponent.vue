@@ -126,7 +126,7 @@ h5{
 }
 .card {
   width: 350px;
-  box-shadow: 1px 1px 12px #888888;
+  box-shadow: 1px 1px 12px #ddd8d8;
   margin: 10px;
 }
 
