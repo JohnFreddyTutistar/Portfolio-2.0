@@ -349,16 +349,18 @@ b {
   color: #d8e2dc;
   transition: all 0.5s ease;
 }
-
+/*#bc2a8d*/
 .wrapper ul li:hover.instagram {
-  border: 3px solid #bc2a8d;
-  box-shadow: 0 0 15px #bc2a8d;
+  border: 3px solid #dd2a7b;
+  box-shadow: 0 0 15px #dd2a7b;
   transition: all 0.5s ease;
 }
 
 .wrapper ul li:hover .fa-instagram {
-  color: #bc2a8d;
-  text-shadow: #bc2a8d;
+  /* color: linear-gradient(to right, #515bd4, #8134af, #dd2a7b, #feda77, #f58529);
+  text-shadow: linear-gradient(to right, #515bd4, #8134af, #dd2a7b, #feda77, #f58529); */
+  color: #dd2a7b;
+  text-shadow: #dd2a7b;
   transition: all 0.5s ease;
 }
 
@@ -375,14 +377,14 @@ b {
 }
 
 .wrapper ul li:hover.linkedin {
-  border: 3px solid #00aced;
-  box-shadow: 0 0 15px #00aced;
+  border: 3px solid #0077b5;
+  box-shadow: 0 0 15px #0077b5;
   transition: all 0.5s ease;
 }
 
 .wrapper ul li:hover .fa-linkedin {
-  color: #00aced;
-  text-shadow: #00aced;
+  color: #0077b5;
+  text-shadow: #0077b5;
   transition: all 0.5s ease;
 }
 

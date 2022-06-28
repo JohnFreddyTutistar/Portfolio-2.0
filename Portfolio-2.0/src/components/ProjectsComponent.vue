@@ -2,7 +2,7 @@
   <div class="container">
     <div class="child-container text-center mt-5">
       <div class="title-section">
-        <h1 class="title">my work</h1>
+        <h1 class="title">my projects</h1>
         <h5 class="mt-4">
           Here you will find a small sample of the projects I've done. Want to
           see more? <a href="https://wa.me/573105124961" target="_blank">Contact me</a>
