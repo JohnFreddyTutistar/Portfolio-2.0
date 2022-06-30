@@ -95,6 +95,49 @@
             ><b>www.my-tasks-jtutis.netlify.app</b></a
           >
         </div>
+
+        <div class="card">
+          <div class="img-card p-2">
+            <a href="https://github.com/JohnFreddyTutistar/colorPicker-js" target="_blank">
+              <img
+                src="../assets/colorpicker.jpg"
+                alt=""
+                width="320"
+                class="img-card2"
+              />
+            </a>
+          </div>
+          <p class="mt-4">
+            Website to choose colors and copy it in hexadecimal in addition to choosing two view styles: dark and light
+          </p>
+          <p class="mt-2 p-1">
+            made with HTML, CSS, Bootstrap, and JavaScript.
+          </p>
+          <a href="https://github.com/JohnFreddyTutistar/colorPicker-js" target="_blank"
+            ><b>Code on GitHub</b></a
+          >
+        </div>
+        <div class="card">
+          <div class="img-card p-2">
+            <a href="https://github.com/JohnFreddyTutistar/Exercise-website-js" target="_blank">
+              <img
+                src="../assets/encuesta.jpg"
+                alt=""
+                width="320"
+                class="img-card2"
+              />
+            </a>
+          </div>
+          <p class="mt-4">
+            Web page where you can choose your favorite anime and look at the statistics
+          </p>
+          <p class="mt-2 p-1">
+            made with HTML, CSS, Bootstrap, JavaScript Jquery.
+          </p>
+          <a href="https://github.com/JohnFreddyTutistar/Exercise-website-js" target="_blank"
+            ><b>Code on GitHub</b></a
+          >
+        </div>
       </div>
     </div>
   </div>
