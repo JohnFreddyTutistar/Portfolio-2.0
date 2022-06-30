@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container mb-5">
     <div class="child-container text-center mt-5">
       <div class="title-section">
         <h1 class="title">my projects</h1>
@@ -21,7 +21,7 @@
             </a>
           </div>
           <p class="mt-4">
-            web page designed for the profile of a professional physiotherapist
+            web page designed for the profile of a professional physiotherapist Spc. SST
           </p>
           <p class="mt-2 p-1">
             made with HTML, CSS, Bootstrap, and JavaScript.
@@ -63,13 +63,36 @@
             </a>
           </div>
           <p class="mt-4">
-            web page designed for the profile of a professional physiotherapist
+            This is my official portfolio where you will find more information about me and some of my projects
           </p>
           <p class="mt-2 p-1">
             made with VueJs, HTML, CSS, Bootstrap, and JavaScript.
           </p>
           <a href="#" target="_blank" class="mb-3"
             ><b>www.johntuti.netlify.app</b></a
+          >
+        </div>
+      </div>
+      <div class="cards-container">
+        <div class="card">
+          <div class="img-card p-2">
+            <a href="https://my-tasks-jtutis.netlify.app" target="_blank">
+              <img
+                src="../assets/todolist.jpg"
+                alt=""
+                width="320"
+                class="img-card2"
+              />
+            </a>
+          </div>
+          <p class="mt-4">
+            This is a dynamic website where you can post your tasks, mark them as done and delete them
+          </p>
+          <p class="mt-2 p-1">
+            made with HTML, CSS, Bootstrap, and JavaScript.
+          </p>
+          <a href="https://my-tasks-jtutis.netlify.app" target="_blank"
+            ><b>www.my-tasks-jtutis.netlify.app</b></a
           >
         </div>
       </div>
