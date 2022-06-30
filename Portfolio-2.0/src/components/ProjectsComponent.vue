@@ -8,7 +8,7 @@
           see more? <a href="https://wa.me/573105124961" target="_blank">Contact me</a>
         </h5>
       </div>
-      <div class="cards-container">
+      <div class="cards-container mb-5">
         <div class="card">
           <div class="img-card p-2">
             <a href="https://tufisioterapeuta.netlify.app" target="_blank">
