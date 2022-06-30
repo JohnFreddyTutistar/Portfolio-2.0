@@ -118,7 +118,7 @@
           </div>
         </div>
         <div class="section-about">
-          Or download a summary of my work
+          Or you can download my resume 
           <div class="btn-link">
             <a
               target="_blank"
