@@ -8,7 +8,7 @@
           see more? <a href="https://wa.me/573105124961" target="_blank">Contact me</a>
         </h5>
       </div>
-      <div class="cards-container mb-5">
+      <div class="cards-container mb-3">
         <div class="card">
           <div class="img-card p-2">
             <a href="https://tufisioterapeuta.netlify.app" target="_blank">
@@ -73,6 +73,7 @@
           >
         </div>
       </div>
+
       <div class="cards-container">
         <div class="card">
           <div class="img-card p-2">
@@ -93,28 +94,6 @@
           </p>
           <a href="https://my-tasks-jtutis.netlify.app" target="_blank"
             ><b>www.my-tasks-jtutis.netlify.app</b></a
-          >
-        </div>
-
-        <div class="card">
-          <div class="img-card p-2">
-            <a href="https://github.com/JohnFreddyTutistar/colorPicker-js" target="_blank">
-              <img
-                src="../assets/colorpicker.jpg"
-                alt=""
-                width="320"
-                class="img-card2"
-              />
-            </a>
-          </div>
-          <p class="mt-4">
-            Website to choose colors and copy it in hexadecimal in addition to choosing two view styles: dark and light
-          </p>
-          <p class="mt-2 p-1">
-            made with HTML, CSS, Bootstrap, and JavaScript.
-          </p>
-          <a href="https://github.com/JohnFreddyTutistar/colorPicker-js" target="_blank"
-            ><b>Code on GitHub</b></a
           >
         </div>
         <div class="card">

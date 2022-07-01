@@ -63,11 +63,9 @@
                       <div
                         class="d-flex justify-content-center mx-4 mb-3 mb-lg-4"
                       >
-                        <input
-                          type="submit"
-                          class="btn btn-primary btn-lg btn-block"
-                          value="Submit"
-                        />
+                        <a href="/recibed" class="btn btn-outline-primary btn-lg w-100">
+                          Submit
+                        </a>
                       </div>
                     </form>
                   </div>
@@ -92,7 +90,6 @@
         </div>
       </div>
     </section>
-    
   </div>
 </template>
 
@@ -108,6 +105,4 @@ export default {
   box-shadow: 0 10px 20px 0 rgba(146, 145, 145, 0.3);
   border: none;
 }
-
-
 </style>
